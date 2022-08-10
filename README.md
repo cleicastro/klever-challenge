@@ -18,7 +18,7 @@ Technical requirements:
 
 ## Quick start
 
-Live Preview: klever-challenge-idzzkot7r-cleicastro.vercel.app
+Live Preview: https://klever-challenge-idzzkot7r-cleicastro.vercel.app
 
 ```bash
 $ git clone https://github.com/cleicastro/klever-challenge
