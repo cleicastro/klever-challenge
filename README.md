@@ -72,3 +72,9 @@ npm run dev
 ```
 npm run build
 ```
+
+7. Test of the application whit Jest
+
+```
+npm test
+```
